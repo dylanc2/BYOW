@@ -1,6 +1,6 @@
 # Build Your Own World Design Document
 
-Final project for CS 61B (data structures). Publication of this semester's project has been allowed.
+## Final project for CS 61B (data structures). Publication of this semester's project has been allowed.
 
 **Partner 1:**
 Dylan Chow
