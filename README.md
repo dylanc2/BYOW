@@ -19,5 +19,4 @@ Aaron Fu
     b) Draw a hallway from a connected room to an unconnected room.
     c) Hallway logic: Overwrite everything to draw the hallway, then if there nothing surrounding, mark with wall.
 (If the wall is on a path, don't write the wall. If the wall is on nothing, create the wall).
-6) Place the golden lock on a wall. (?) Find a walkable path, locate the nearest accessible wall.
-## Persistence
+6) Place the golden lock on a wall. Find a walkable path, locate the nearest accessible wall.
